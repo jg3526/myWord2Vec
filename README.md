@@ -1,1 +1,1 @@
-# my Word2Vec
+# myWord2Vec
